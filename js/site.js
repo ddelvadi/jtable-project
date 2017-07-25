@@ -1,4 +1,4 @@
-
+/*reference: http://api.jquery.com/jquery.each/ */
 
 var table_data = [ { "first_name" : "Rose",
                      "last_name"  : "Tyler",
